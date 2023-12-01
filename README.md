@@ -1,6 +1,6 @@
 # Market-Mix-Modeling-
 
-# TABLEAU
+# TABLEAU DASHBOARD
 <img width="730" alt="Screenshot 2023-12-01 205133" src="https://github.com/PavanRaju7/Market-Mix-Modeling-/assets/137611634/7cae2005-51ef-42a1-8e8f-5d877265805e">
 
 # Business Problem and Solution 
