@@ -25,3 +25,6 @@ Gains: A more comprehensive, reliable, and adaptable SARIMAX model for accurate 
 ### Model Performance
 
 OLS performed well (Adj. R-squared: 0.8657, MSE: 188066.20). L1 and L2 regularization, with tuned hyperparameters (Lasso: Alpha 0.01, MSE 180163.11, Adj. R-squared 0.8714; Ridge: Alpha 0.1, MSE 180846.45, Adj. R-squared 0.8709), improved accuracy, highlighting the significance of hyperparameter tuning in refining model precision.
+
+
+# Certificate: [1.AI-DS-13933-Pavan R.pdf](https://github.com/PavanRaju7/Market-Mix-Modeling-/files/13623466/1.AI-DS-13933-Pavan.R.pdf)
